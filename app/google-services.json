@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059683035702",
+    "project_id": "auroom-games",
+    "storage_bucket": "auroom-games.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059683035702:android:9b1fb9f7f6d7cdc2aa4697",
+        "android_client_info": {
+          "package_name": "com.example.auroomgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059683035702-3n5mfscq2guhd7mft7t0mqgka4ilfoii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRc9k5qjqKmTR_gDBOylL_Hl7kGA4gGeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059683035702-3n5mfscq2guhd7mft7t0mqgka4ilfoii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

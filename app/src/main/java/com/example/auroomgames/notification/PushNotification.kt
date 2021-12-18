@@ -52,7 +52,7 @@ class PushNotification : FirebaseMessagingService() {
 
         val builder = NotificationCompat.Builder(this, notChannelId)
             .setContentTitle(title)
-            .setSmallIcon(R.drawable.ic_launcher_background)
+            .setSmallIcon(R.drawable.ic_vector)
             .setAutoCancel(true)
             .setContentIntent(resultPendingIntent)
             .setContentText(message)

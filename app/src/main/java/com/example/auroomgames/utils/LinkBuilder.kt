@@ -19,6 +19,7 @@ fun TextView.stringToLink(
         .setBold(true)
         .setUnderlined(false)
     this.text = text
+    this.setTextColor(Color.BLACK)
     this.applyLinks(result)
 }
 

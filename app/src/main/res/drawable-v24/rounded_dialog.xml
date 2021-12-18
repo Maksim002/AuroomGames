@@ -15,7 +15,7 @@
                 android:topRightRadius="30dip"/>
 
             <stroke
-                android:width="3dip"
+                android:width="1dip"
                 android:color="@android:color/darker_gray" />
         </shape>
     </item>
@@ -33,7 +33,7 @@
                 android:topRightRadius="30dip"/>
 
             <stroke
-                android:width="3dip"
+                android:width="1dip"
                 android:color="@android:color/darker_gray" />
         </shape>
     </item>

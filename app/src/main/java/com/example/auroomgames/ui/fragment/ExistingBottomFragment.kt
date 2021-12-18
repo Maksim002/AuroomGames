@@ -28,15 +28,15 @@ class ExistingBottomFragment() : BottomSheetDialogFragment() {
 
         textLink.stringToLink(
             text = resources.getString(R.string.mirror_error),
-            link = "https://t.me/auroombetcom",
+            link = "https://t.me/auroomgames_eng",
             listener = onTextLinkClickListener()
         )
 
-        textLinkTwo.stringToLink(
-            text = resources.getString(R.string.mirror_errorTwo),
-            link = "https://www.instagram.com/auroombet/",
-            listener = onTextLinkClickListener()
-        )
+//        textLinkTwo.stringToLink(
+//            text = resources.getString(R.string.mirror_errorTwo),
+//            link = "https://www.instagram.com/auroombet/",
+//            listener = onTextLinkClickListener()
+//        )
     }
 
     private fun onTextLinkClickListener() = object : OnLinkClickListener {

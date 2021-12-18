@@ -1,4 +1,4 @@
-package com.example.auroomgames.ui.main.base
+package com.example.auroomgames.servise
 
 import android.os.Bundle
 import android.view.LayoutInflater

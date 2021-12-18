@@ -17,8 +17,7 @@ import androidx.webkit.WebSettingsCompat
 import androidx.webkit.WebViewFeature
 import com.example.auroomcasino.ui.fragment.ExistingBottomFragment
 import com.example.auroomgames.R
-import com.example.auroomgames.ui.main.base.BaseActivity
-import com.google.android.gms.tasks.OnCompleteListener
+import com.example.auroomgames.servise.BaseActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import com.google.firebase.remoteconfig.FirebaseRemoteConfigSettings
